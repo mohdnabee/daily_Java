@@ -10,7 +10,5 @@ public class gitTest {
         int wordCount = words.length;
         System.out.println("Number of words: " + wordCount);
         sc.close(); // Close the Scanner to prevent resource leaks
-
-
     }
 }
