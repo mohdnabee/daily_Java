@@ -1,5 +1,7 @@
 package calssAndObjects;
-
+// 9.	Create a class named Circle with an instance variable radius.
+// Create 2 objects and assign different radii. Print the circumference of both circles.
+//               Formula : C=2πr
 public class Circle {
 
     int radius ;
