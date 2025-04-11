@@ -14,5 +14,8 @@ public class posiAndNaga {
                 System.out.println("Negative"); }
         else{
                     System.out.println("Zero");}
+
+
+
     }
 }
