@@ -13,6 +13,7 @@ public class Counter {
         new Counter();
         new Counter();
         System.out.println("Count: " + Counter.count);
+
     }
 }
 
