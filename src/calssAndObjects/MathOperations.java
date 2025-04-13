@@ -7,6 +7,8 @@ public class MathOperations {
         int y = 3;
 
         System.out.println("Product: " + (x * y));
+
+        System.out.println("Sum :"+(x+y));
     }
 
 }
