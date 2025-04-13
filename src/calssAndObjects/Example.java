@@ -9,7 +9,8 @@ public class Example {
         int num  ;
 
 
-        System.out.println("value of num : "+num);
+      //  System.out.println("value of num : "+ num); error shows
+        //                                     ^
     }
 }
 // This code will result in a compilation error:

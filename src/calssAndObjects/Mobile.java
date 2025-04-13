@@ -6,6 +6,7 @@ public class Mobile {
     String model;
 
     public static void main(String[] args) {
+
         Mobile mobile1 = new Mobile();
         mobile1.brand = "Apple";
         mobile1.model = "iPhone 14";
@@ -18,6 +19,10 @@ public class Mobile {
         mobile3.brand = "Realme";
         mobile3.model= "8 pro";
 
+        Mobile mobile4 =  new Mobile();
+        mobile4.brand= "Vivo";
+        mobile4.model= "Y15";
+
         System.out.println("Mobile 1 details:");
         System.out.println("Brand: " + mobile1.brand);
         System.out.println("Model: " + mobile1.model);
@@ -29,6 +34,10 @@ public class Mobile {
         System.out.println("\nMobile 3 details:");
         System.out.println("Brand: " + mobile3.brand);
         System.out.println("Model: " + mobile3.model);
+
+        System.out.println("\nMobile 4 details: ");
+        System.out.println("Brand: "+mobile4.brand);
+        System.out.println("Model : "+mobile4.model);
     }
 }
 
