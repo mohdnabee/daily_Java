@@ -21,5 +21,8 @@ public class fourprog {
         int ans = (c * d) / (c - d);
         System.out.println("(c * d) / (c - d) = " +ans);
 
+
+
+
     }
 }

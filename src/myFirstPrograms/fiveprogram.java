@@ -22,6 +22,7 @@ public class fiveprogram {
         int b = sc.nextInt();
         int sum = a+b;
 
-        System.out.println(sum);
+
+        System.out.println("a is " + a + " a is "+b+  " sum of a and b  : "+ sum);
     }
 }
