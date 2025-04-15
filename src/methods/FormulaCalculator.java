@@ -5,7 +5,7 @@ import  java.util.*;
             Scanner scanner = new Scanner(System.in);
             boolean running =  true;
             System.out.println("Choose a formula:");
-            System.out.println("8. basic Calculator ");
+            System.out.println("1. basic Calculator ");
             System.out.println("2. Perimeter of Rectangle (P = 2 * (length + width))");
             System.out.println("3. Quadratic Formula (x = (-b ± √(b² - 4ac)) / 2a)");
             System.out.println("4. Simple Interest (SI = (P * R * T) / 100)");
