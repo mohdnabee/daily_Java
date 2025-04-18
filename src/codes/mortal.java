@@ -1,6 +1,6 @@
 package codes;
 import  java.util.*;
-
+//   MARTIAL ARTISTS / NETHERRELAM // ELDER GOD // NOMAD // OUTWORLD // SPEC OPS 2
 public class mortal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -33,16 +33,20 @@ public class mortal {
                     // Add character logic here
                     switch (characterChoice) {
                         case 1:
-                            System.out.println("Scorpion");
+                            System.out.println("MK11 Scorpion");
                             System.out.println("Name: Hanzo Hasashi");
-                            System.out.println("Special Move: Spear");
-                            System.out.println("Fatality: Get over here!");
+                            System.out.println("class : MARTIAL ARTISTS / NETHERRELAM");
+                            System.out.println("Special Move1 : HELL'S SPEAR");
+                            System.out.println("Special Move2 : Death Spin");
+                            System.out.println("Special Move3 : GET OVER HERE!");
                             break;
                         case 2:
-                            System.out.println("Sub-Zero");
+                            System.out.println(" MK 11Sub-Zero");
                             System.out.println("Name: Bi-Han or Kuai Liang");
-                            System.out.println("Special Move: Ice Ball");
-                            System.out.println("Fatality: Spine Rip");
+                            System.out.println("class : MARTIAL ARTISTS ");
+                            System.out.println("Special Move1 : Icicle Burst");
+                            System.out.println("Special Move2 : breaking the Ice");
+                            System.out.println("Special Move3 : Axe the Question!");
                             break;
                         case 3:
                             System.out.println("Raiden");
