@@ -16,7 +16,6 @@ public class Arraysum {
             System.out.println("Enter elements:");
             for (int i = 0; i < n; i++) {
                 arr[i] = sc.nextInt();
-
                 sum += arr[i];         }
             System.out.println("Sum = " + sum);
         }
