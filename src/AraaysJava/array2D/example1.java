@@ -12,11 +12,10 @@ public class example1 {
         System.out.print("Enter the columns");
         int cols= sc.nextInt();
         // Declaration of 2d array
-        // type [][] arrayName = new Type [rows] [columns]
+        // data type [][] arrayName = new Type [rows] [columns]
         int [][] numbers =  new int[rows][cols];
 
         // outer loop for input
-
         for (int i = 0; i<rows; i++){
             // columns
             for (int j = 0; j<cols; j++){
@@ -25,7 +24,6 @@ public class example1 {
         }
 
         // output
-
         for (int i =0; i<rows ; i++){
             for (int j =0 ; j<cols; j++){
                 System.out.print(" | ");

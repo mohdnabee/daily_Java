@@ -5,7 +5,7 @@ public class evenAndOdd {
 
     public static void main(String[] args) {
 
-        int [] arr = {1,20,33,4,50,6,70};
+        int [] arr = {1,25,33,4,50,6,70};
         int even = 0;
         int odd = 0;
 
