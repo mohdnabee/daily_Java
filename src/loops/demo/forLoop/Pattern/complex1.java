@@ -23,7 +23,6 @@ public class complex1 {
         }
 
         //  second half
-
         for (int i = n-1 ; i>=1; i--){
 
             // print a
