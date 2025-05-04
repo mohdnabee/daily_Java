@@ -10,9 +10,9 @@ public class mortal {
             System.out.println("Mortal Kombat Menu");
             System.out.println("1. Outworld");
             System.out.println("2. Mortal Kombat Characters");
-            System.out.println("3. Fatalities");
+            System.out.println("3. Brutality");
             System.out.println("4 Friendships");
-            System.out.println("4. Exit");
+            System.out.println("5. Exit");
             System.out.print("Enter your choice: ");
             int choice = sc.nextInt();
 

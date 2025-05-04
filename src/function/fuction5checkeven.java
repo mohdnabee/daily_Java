@@ -8,10 +8,10 @@ public class fuction5checkeven {
     public  static void checkNum(int num){
 
         if (num %2 == 0){   //  using a module operator || if the condition is true ===============//===================
-            System.out.println("Its even ");
+            System.out.println(num+" Is even ");
 
         }else {//  else the condition is false ====================//===================================================
-            System.out.println("its odd number ");
+            System.out.println(num+" is odd number ");
         }
     }
 
@@ -21,8 +21,6 @@ public class fuction5checkeven {
         Scanner sc = new Scanner(System.in);
         System.out.print("ENTER THE NUMBER: ");
         int num = sc.nextInt();
-
-
        checkNum(num);// call the function ===========================//=================================================
 
     }

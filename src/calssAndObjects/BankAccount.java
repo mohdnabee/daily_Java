@@ -5,12 +5,16 @@ package calssAndObjects;
 public class BankAccount {
 
     double balance ;
+    String accountHolder;
 
     public static void main(String[] args) {
 
         BankAccount Account =  new BankAccount();
-        Account.balance =  10200.0;
+        Account.balance =  60200.0;
+        Account.accountHolder = "ASUS TUF GAMING F15";
+
 
         System.out.println("balance : "+Account.balance+ " Rs");
+        System.out.println("Account Holder Name : "+Account.accountHolder);
     }
 }
