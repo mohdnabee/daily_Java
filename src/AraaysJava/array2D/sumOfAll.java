@@ -24,8 +24,11 @@ public class sumOfAll {
         //  logic for sum of all elemnets =======================================//===============================//====
         int sum =0;
          for (int i = 0 ; i<numbers.length; i++){
+
              for (int j = 0;j<numbers[i].length;j++){
+
                  sum += numbers[i][j];
+
              }
 
          }
