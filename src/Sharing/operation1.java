@@ -5,8 +5,8 @@ public class operation1 {
 
         System.out.println();
         System.out.println("Sum :" +(a+b));
-        System.out.println("MUl : "+ (a*b));
-        System.out.println("Sub : "+ (a-b));
+        System.out.println("MUl : "+(a*b));
+        System.out.println("Sub : "+(a-b));
 
     }
 }

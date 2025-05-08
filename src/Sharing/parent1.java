@@ -17,6 +17,10 @@ public class parent1 {
         operation1 obj2  = new operation1();
         obj2.opera(5, 4);
 
+
+        patterns1 obj3 =  new patterns1();
+        obj3.pat(6);
+
 //        child1 obj2 =  new child1();
 //        obj2.sum(3,4);
     }
