@@ -10,26 +10,26 @@ public class sumOfAll {
         System.out.println("Enter the column");
         int col = sc.nextInt();
 
-        // declaration of 2d array
+        // declaration of 2d array ==========================//=========================================================
         int [][] numbers =  new int[rows][col];
 
 
-        //  loop for input of an array
+        //  loop for input of an array ======================//=====================//==================================
         for (int i =0; i<rows; i++){
             for (int j =0 ; j<col ; j++){
                 numbers [i][j]= sc.nextInt();
             }
         }
 
-        //  logic for sum of all elemnets
+        //  logic for sum of all elemnets =======================================//===============================//====
         int sum =0;
          for (int i = 0 ; i<numbers.length; i++){
-             for (int j = 0;j<numbers.length;j++){
+             for (int j = 0;j<numbers[i].length;j++){
                  sum += numbers[i][j];
              }
-             System.out.println("sum of column :"+ i +":"+sum );
-         }
 
+         }
+        System.out.println("sum of all elements:"+sum );
 
     }
 }
