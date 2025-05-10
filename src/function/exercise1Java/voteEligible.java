@@ -14,10 +14,8 @@ public class voteEligible {
         }else {
             System.out.println("Not Eligible for vote ");
         }
-
-
+        
     }
-
 
     public static void main(String[] args) {
 
