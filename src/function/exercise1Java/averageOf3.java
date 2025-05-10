@@ -1,4 +1,4 @@
-package exercise1Java;
+package function.exercise1Java;
 // enter the 3 numbers from the user and make function to print average...
 
 import java.util.Scanner;

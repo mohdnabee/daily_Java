@@ -1,4 +1,4 @@
-package exercise1Java;
+package function.exercise1Java;
 import java.util.*;
 // write a function which takes a 2 numbers and the returns the greater of those two
 public class Gretaer2 {
