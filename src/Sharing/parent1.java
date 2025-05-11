@@ -23,5 +23,14 @@ public class parent1 {
 
 //        child1 obj2 =  new child1();
 //        obj2.sum(3,4);
+
+        VechileDetails obj4 =  new VechileDetails();
+        obj4 .bike(150000,"Royal Enfield Hunter 350   ","2024", "Black  ");
+        obj4.bike(170583,"Yamaha MT 15 V2", "2025", "black");
+        obj4.bike(170583,"Yamaha R15 V4", "2025", "blue");
+
+
+        obj4.car(8.69, " lakh","Maruti Brezza","2023","blue","Suv");
+
     }
 }
