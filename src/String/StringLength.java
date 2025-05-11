@@ -15,6 +15,5 @@ public class StringLength {
         System.out.println("Sentence count : "+senctence.length());
 
 
-
     }
 }
