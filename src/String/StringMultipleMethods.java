@@ -46,6 +46,7 @@ public class StringMultipleMethods {
         System.out.println(txt7.toUpperCase());   // Outputs "HELLO WORLD"
         System.out.println(txt7.toLowerCase());   // Outputs "hello world"
 
+
         //  find character
         String txt8 = "Please locate where 'locate' occurs!";
         System.out.println("Locate find at the value of : "+txt8.indexOf("locate")); // Outputs 7
