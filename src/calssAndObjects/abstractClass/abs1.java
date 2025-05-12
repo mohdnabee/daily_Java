@@ -10,6 +10,7 @@ abstract class  Payment {
 class upi extends Payment{
     void pay (int a){
         System.out.println("pay via Upi"+a);
+
     }
 }
 
