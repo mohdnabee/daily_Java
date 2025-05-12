@@ -20,6 +20,7 @@ public class reverse {
             System.out.println("palindrome");
         }else {
             System.out.println("not a palindrome");
+
         }
     }
 
