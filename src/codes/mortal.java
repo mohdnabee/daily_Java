@@ -64,7 +64,7 @@ public class mortal {
                     System.out.println("Fatalities are finishing moves in Mortal Kombat.");
                     // Add fatality logic here
                     break;
-                case 4:
+                case 5:
                     System.out.println("Exiting...");
                     running = false;
                     break;
