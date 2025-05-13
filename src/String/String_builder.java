@@ -11,6 +11,8 @@ public class String_builder {
 
         StringBuilder str1 = new StringBuilder("hello");
         str1.append("hi");
+        str1.append(" my name is Mohd Nabeel");
+        str1.append("\ntoday is 13-05-2025");
         System.out.println(str1);
 
 
