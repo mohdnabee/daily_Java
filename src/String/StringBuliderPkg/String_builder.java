@@ -1,4 +1,4 @@
-package String;
+package String.StringBuliderPkg;
 
 public class String_builder {
     public static void main(String[] args) {
