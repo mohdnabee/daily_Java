@@ -10,8 +10,8 @@ public class reverseString {
         int front =  i;
         int back =  sb.length()-1-i; // => 5-1-0
 
-        char frontChar =  sb.charAt(front);
-        char backChar =  sb.charAt(back);
+        char frontChar = sb.charAt(front);
+        char backChar  = sb.charAt(back);
 
         sb.setCharAt(front,backChar);
         sb.setCharAt(back,frontChar);
