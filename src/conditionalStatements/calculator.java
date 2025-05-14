@@ -33,7 +33,8 @@ public class calculator {
                 break;
             case 5 : if(b == 0) {
                 System.out.println("Invalid Division");
-            } else {
+            } else
+            {
                 System.out.println(a%b);
             }
                 break;
