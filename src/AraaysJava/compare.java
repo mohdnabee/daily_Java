@@ -12,7 +12,8 @@ public class compare {
         if (isEqual)
         {
             System.out.println("Arrays are equal");
-        } else {
+        } else
+        {
             System.out.println("Arrays are not equal");
         }
     }
