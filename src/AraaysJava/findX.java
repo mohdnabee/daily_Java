@@ -10,7 +10,6 @@ public class findX {
         int size =  sc.nextInt();
         int [] numbers = new int[size];
 
-
         // input loop
         for (int i =0 ;  i<size; i++){
             System.out.print("enter the element "+(i+1)+": " );
