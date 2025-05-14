@@ -28,6 +28,7 @@ class Shape{
 public class areaOfShapes {
     public static void main(String[] args) {
         Shape obj = new Shape();
+
         System.out.println("Area of circle: "+obj.circle(20));
         System.out.println("Area of Square: "+obj.square(5));
         System.out.println("Area of retangle: "+obj.rectangle(4,3));
