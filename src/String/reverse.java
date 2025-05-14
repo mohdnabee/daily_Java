@@ -21,6 +21,7 @@ public class reverse {
         }else {
             System.out.println("not a palindrome");
 
+
         }
     }
 
