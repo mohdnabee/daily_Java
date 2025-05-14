@@ -8,6 +8,7 @@ public class fun1 {
 
     public static  void  printMyName(String name){
         System.out.println(name);
+
         return;
     }
 
