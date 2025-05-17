@@ -15,7 +15,7 @@ public class logicalOpertaors {
 
         System.out.println(" ! (logical NOT  Operator)");
 
-        System.out.println(" Ex : -  ( st1 ||  str2 || str3 ....");
+        System.out.println(" Ex : -  ( st1 ||  str2 || str3 ....)");
     }
 
 
