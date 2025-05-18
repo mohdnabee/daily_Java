@@ -11,7 +11,5 @@ public class bit_ManipulationClearBit {
         int newNumber =  notBitMask & n ;
         System.out.println(newNumber);
 
-
-
     }
 }
