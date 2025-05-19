@@ -3,7 +3,7 @@ package recursionJAVA;
 public class recursion1 {
     public static void printNumber(int n ){
 
-        if (n ==0 ){
+        if (n ==0 ){//  base case
             return;
         }
         System.out.print(n+ " ");
