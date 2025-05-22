@@ -9,6 +9,7 @@ public class class2EH {
             System.out.println(arr[6]);
         }
         catch (Exception e){
+            System.out.println("Not find In the array ");
             System.out.println(e);
         }
 
