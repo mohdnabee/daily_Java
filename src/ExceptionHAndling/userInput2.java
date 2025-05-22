@@ -11,9 +11,6 @@ public class userInput2 {
             System.out.println(e);
             System.out.println(" Your String  value is Null");
         }
-
         System.out.println(" example ");
-
-
     }
 }
