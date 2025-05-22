@@ -9,6 +9,7 @@ public class class1EH {
              System.out.println(c);
          }
          catch (Exception e){
+             System.out.println(e);
              System.out.println(a +  " / "+ b +  " (we can not divide by zero) ");
          }
 
@@ -16,4 +17,3 @@ public class class1EH {
         System.out.print( "Exception Handling");
     }
 }
-
