@@ -8,6 +8,7 @@ public class OperatorsJava {
         System.out.println("1. Arithmetic Operators");
         System.out.println("2. Relational Operators");
         System.out.println("3. Logical Operators");
+        System.out.println("4. bitWise Operators ");
         System.out.println();
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter The Case Number : ");
