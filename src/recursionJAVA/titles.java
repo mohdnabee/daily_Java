@@ -7,7 +7,6 @@ public class titles {
         if ( n ==  m ){
             return  2;
         }
-
         if (n < m){
             return 1 ;
         }
