@@ -1,5 +1,8 @@
 package sets;
 
+import com.sun.jdi.Value;
+
+import java.security.Key;
 import java.util.HashMap;
 
 public class hashMap {
@@ -18,6 +21,9 @@ public class hashMap {
         System.out.println(map.getOrDefault("id0",0));
         System.out.println(map.keySet());
         System.out.println(map.values());
+        map.forEach((key, value)-> {
+            System.out.println(key +value);
+        });
 
 
     }
