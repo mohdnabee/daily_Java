@@ -10,7 +10,7 @@ public class hashMap {
 
 
         HashMap<String, Integer> map =  new HashMap<>();
-        map.put("id0", 1);// key and value ||  key always unique
+        map.put("id0", 1);// key and value ||key always unique
         map.put("id1", 2);
         map.put("id2", 3);
         map.put("id3", 4);
@@ -21,6 +21,8 @@ public class hashMap {
         System.out.println(map.getOrDefault("id0",0));
         System.out.println(map.keySet());
         System.out.println(map.values());
+
+
         map.forEach((key, value)-> {
             System.out.println(key +value);
         });
