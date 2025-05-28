@@ -22,9 +22,11 @@ public class hashMap {
         System.out.println("map.keySet() "+map.keySet());
         System.out.println("map.Values() " +map.values());
 
+        System.out.println();
 
+        System.out.println( "Map for each using ");
         map.forEach((key, value)-> {
-            System.out.println(key +value);
+            System.out.println(key +" "+value);
         });
 
 
