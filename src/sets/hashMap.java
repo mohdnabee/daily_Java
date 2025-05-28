@@ -19,8 +19,8 @@ public class hashMap {
 
         System.out.println(map.get("id0"));
         System.out.println(map.getOrDefault("id0",0));
-        System.out.println(map.keySet());
-        System.out.println(map.values());
+        System.out.println("map.keySet() "+map.keySet());
+        System.out.println("map.Values() " +map.values());
 
 
         map.forEach((key, value)-> {
