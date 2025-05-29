@@ -10,7 +10,6 @@ public class guestRecursion {
             return 1;
         }
 
-
         //  single
         int way1 =  guest(n-1);
 
