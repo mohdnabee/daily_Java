@@ -26,7 +26,7 @@ public class guestRecursion {
         System.out.print("Enter the value of guest:  ");
         int n  = sc.nextInt();
 
-        System.out.println(guest(n));
+        System.out.println( "Total ways of calls guest is : "+guest(n));
 
     }
 }
