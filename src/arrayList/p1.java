@@ -10,7 +10,7 @@ public class p1 {
         names.add("Nabeel");
         names.add("Tushar");
         names.add("Amit");
-        names.add("Siddhartha");
+        names.add("Siddharth");
         names.add("ketan");
         // System.out.println(names);
 
@@ -26,7 +26,7 @@ public class p1 {
         }
 
         System.out.println();
-        System.out.println("remove the a letters names");
+        System.out.println("remove the (A)  letters names");
 
         System.out.println(names);
 
