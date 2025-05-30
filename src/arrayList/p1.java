@@ -19,7 +19,7 @@ public class p1 {
 
         while (it.hasNext()){
             String elem=  it.next();
-            System.out.println(elem);
+            System.out.println(elem);//  print all names
             if (elem.startsWith("A")){
                 it.remove();
             }
