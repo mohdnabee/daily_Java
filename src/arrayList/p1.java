@@ -15,7 +15,7 @@ public class p1 {
         // System.out.println(names);
 
         Iterator<String> it =  names.iterator();
-      //   System.out.println(it.hasNext());
+      //   System.out.println(it.hasNext());//  gives a true or false |  shows a next value ha ki nhi ha
 
         while (it.hasNext()){
             String elem=  it.next();
