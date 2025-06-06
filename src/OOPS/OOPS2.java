@@ -9,6 +9,12 @@ class  Student {
         System.out.println(this.name);
         System.out.println(this.age);
     }
+
+    //   Non-Parameterized constructor
+    Student (){
+        System.out.println("Constructor Called ");
+    }
+
 }
 
 public class OOPS2 {
