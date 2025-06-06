@@ -10,7 +10,7 @@ class  parent {
     }
 
     void sum (int a ,int b){
-        System.out.println("Sum of a and b is: "+ a+b);
+        System.out.println("Sum of a and b is: "+ (a+b));
     }
 
     void sum (int a ,int b , int c){
