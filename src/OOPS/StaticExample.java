@@ -17,6 +17,7 @@ public class StaticExample {
       Studentss student1 =  new Studentss();
       student1.name="tony";
 
+
         System.out.println(student1.school);
     }
 }
