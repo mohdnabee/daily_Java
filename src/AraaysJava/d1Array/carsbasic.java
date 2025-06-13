@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 
 public class carsbasic {
 

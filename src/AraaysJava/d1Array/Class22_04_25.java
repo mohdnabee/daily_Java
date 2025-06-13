@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 //
 public class Class22_04_25 {
     public static void main(String[] args) {

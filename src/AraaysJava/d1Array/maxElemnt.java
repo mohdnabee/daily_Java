@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 
 //. Find the maximum element in an array: Write a program to find the maximum element in an array.
 

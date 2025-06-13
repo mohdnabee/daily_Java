@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 import  java .util.*;
 
 // Ek array lo user se input me, aur uske sare elements ka sum nikaalo

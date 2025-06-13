@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 
 public class sum2aary {
     public static void main(String[] args) {

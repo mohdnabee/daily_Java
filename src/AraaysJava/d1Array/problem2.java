@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 
 import java.util.Scanner;
 

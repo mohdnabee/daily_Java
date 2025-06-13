@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 
 public class prog1 {
     public static void main(String[] args) {

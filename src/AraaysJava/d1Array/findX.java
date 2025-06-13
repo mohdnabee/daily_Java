@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 
 import java.util.Scanner;
 // take an array as input from the user .Search for a given number X and print the index at which it occurs .

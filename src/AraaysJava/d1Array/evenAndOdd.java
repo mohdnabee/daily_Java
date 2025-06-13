@@ -1,4 +1,4 @@
-package AraaysJava;
+package AraaysJava.d1Array;
 //  find an even and odd number in an array
 
 public class evenAndOdd {
