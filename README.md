@@ -1,4 +1,4 @@
-# ☕ Java Basics and Mini Projects
+# ☕ Java Programming : 
 
 Welcome to the **Java Learning Repository**! This repo is designed for beginners to understand core Java concepts and practice through simple programs and mini projects.
 
