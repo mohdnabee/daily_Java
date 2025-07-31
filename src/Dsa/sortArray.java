@@ -18,3 +18,6 @@ public class sortArray {
 
     }
 }
+//  Arrays.sort(array) uses a built-in sorting algorithm (Dual-Pivot Quicksort for primitives).
+//
+//Arrays.toString(array) is used to print the entire array nicely.
