@@ -53,6 +53,7 @@ static void deposit(Scanner sc){
     if (amount >0){
         balance += amount ;
         System.out.println("₹" + amount +" deposited successfully");
+//        checkBalance();
     }else {
         System.out.println("Invalid amount !!!");
     }
@@ -61,7 +62,7 @@ static void deposit(Scanner sc){
 
 // Function WithDraw
     static void withdraw(Scanner sc){
-        System.out.println("Enter amount to withdraw: ");
+        System.out.print("Enter amount to withdraw: ");
         double amount = sc.nextDouble();
 
         if(amount > balance){
