@@ -25,7 +25,8 @@ public class AsusBank {
         int choice;
 
         do {
-            System.out.println("\n====== ASUS BANK MENU ======");
+            System.out.println("\n ====== ASUS BANK MENU ====== ");
+
             System.out.println("1. Deposit");
             System.out.println("2. Withdraw");
             System.out.println("3. Check Balance");
@@ -183,5 +184,4 @@ public class AsusBank {
         userPIN = newPin;
         System.out.println("PIN updated successfully!");
     }
-
 }
